@@ -1,0 +1,8 @@
+<xml version="1.0" encoding="UTF-8">
+	<jugada id="1">
+		<pregunta imagen="1.jpg" cantidadrespuestas="3">Pregunta</pregunta>
+		<respuesta id="1" buena="no">Respuesta</respuesta>
+		<respuesta id="2" buena="si">Respuesta</respuesta>
+		<respuesta id="3" buena="no">Respuesta</respuesta>
+	</jugada>
+</xml>

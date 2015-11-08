@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>		<!-- Cargar los CSS y scripts necesarios -->
+		<title>Test permiso de conducir B en JavaScript</title>
+		<meta charset="UTF-8">
+		<meta name="description" content="Test permiso de conducir B en JavaScript">
+		<meta name="keywords" content="HTML,CSS,JavaScript,XML,jQuery,test conducir,ejemplo">
+		<meta name="author" content="Tomeu Torres">
+		<script type="text/javascript" src="jquery.js"></script>
+		<script type="text/javascript" src="jquery-ui.js"></script>
+		<script type="text/javascript" src="jquery-cookie-master/src/jquery.cookie.js"></script>
+		<script type="text/javascript" src="xml2json.js"></script>
+		<link rel="stylesheet" type="text/css" href="css/estilos.css">
+		<link rel="stylesheet" type="text/css" href="css/jquery-ui.css">
+		<link rel="stylesheet" type="text/css" href="css/jquery-ui.structure.css">
+		<link rel="stylesheet" type="text/css" href="css/jquery-ui.theme.css">
+		<script type="text/javascript" src="principal.js"></script>
+	</head>
+	<body>
+		<header>			<!-- Título con enlace a si mismo -->
+			<span class="Titulo"><a href="inicio.html">Test permiso de conducir B</a></span>
+		</header>
+
+		<main id="ContenedorPrincipal">		<!-- Contenedor principal del documento -->
+
+			<div id="ContenedorInformacion">	<!-- Contenedor lateral de control del test -->
+
+				<div id="AreaInformacion">
+					<p class="Informacion">
+					Cantidad de preguntas (total)<br>
+					<select id="CantidadDePreguntas">
+					  <option>10</option>
+					  <option>20</option>
+					  <option selected="selected">30</option>
+					</select> 
+					</p>
+
+					<p class="Informacion">
+					Mostrar (cada vez)<br>
+					<select id="CantidadPorRonda">
+					  <option>3</option>
+					  <option>5</option>
+					  <option selected="selected">10</option>
+					</select> 
+					</p>
+				</div>
+
+				<div id="AreaResultados">		<!-- Contenedor con los resultados finales, de momento vacío -->
+				</div>
+
+				<div id="AreaInstrucciones">	<!-- Contenedor lateral de ayuda -->
+					<p class="TituloAreaInstrucciones">Ayuda</p>
+					<p class="Instrucciones">
+						Antes de empezar, puedes elegir el número de preguntas total del test así como cuántas preguntas mostrar cada vez que se pulsa el botón. Para aprobar, se permite un máximo de 3 errores y todas las preguntas deben tener una respuesta seleccionada así como se dispone de un máximo de 30 minutos desde el momento que se presione el botón "Empezar Test".
+					</p>
+				</div>
+
+			</div>
+
+			<div id="AreaPrincipal" class="AreaPrincipalEstrecha">		<!-- Contenedor principal de las preguntas del test -->
+
+				<div id="AreaPreguntas">
+				</div>	
+
+				<div id="AreaBoton">
+					<button id="BotonProcesarPeticion" type="button" onclick="ProcesarPeticion()">Empezar Test</button>
+				</div>
+
+			</div>
+
+				<div id="Limpiador">		<!-- Contenedor para "devolver" el flujo a block despues de enseñar elementos inline -->
+				</div>
+
+		</main>
+
+		<footer id="Footer">		<!-- Contenedor para el pie de página, de momento vacío -->
+		</footer>
+
+	</body>
+</html>

@@ -1,0 +1,591 @@
+<xml version="1.0" encoding="UTF-8">
+	<jugada id="1">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">De día y con tiempo claro, ¿existe alguna circunstancia especial que le obligue a circular con las luces de cruce encendidas en su turismo?</pregunta>
+		<respuesta id="1" buena="si">Sí, cuando circule por un carril habilitado para circular en sentido contrario al habitual, un carril adicional o un carril reversible.</respuesta>
+		<respuesta id="2" buena="no">No, porque sólo deben encenderse entre la puesta y la salida del sol o cuando las condiciones ambientales o meteorológicas sean adversas.</respuesta>
+		<respuesta id="3" buena="no">Sí, cuando por motivos de emergencia circule por el arcén de una autopista o autovía.</respuesta>
+	</jugada>
+	<jugada id="2">
+		<pregunta imagen="2.jpg" cantidadrespuestas="3">Ud. ha encendido la luz de largo alcance para advertir al vehículo que se observa en la fotografía su propósito de adelantarlo, ¿es correcto?</pregunta>
+		<respuesta id="1" buena="si">Sí, siempre que sea de forma intermitente, a intervalos muy cortos y de modo que se evite el deslumbramiento.</respuesta>
+		<respuesta id="2" buena="no">No, únicamente podré utilizar el indicador de dirección.</respuesta>
+		<respuesta id="3" buena="no">No, sólo está permitido utilizar las advertencias acústicas.</respuesta>
+	</jugada>
+	<jugada id="3">
+		<pregunta imagen="vacio.png" cantidadrespuestas="2">¿Le está permitido utilizar las señales acústicas de su vehículo para advertir, en poblado, al conductor de otro vehículo su propósito de adelantarlo?</pregunta>
+		<respuesta id="1" buena="no">Sí</respuesta>
+		<respuesta id="2" buena="si">No</respuesta>
+	</jugada>
+	<jugada id="4">
+		<pregunta imagen="4.jpg" cantidadrespuestas="3">Debido a que la niebla es muy densa, el vehículo que se observa en la fotografía lleva encendidas las luces de cruce y las luces antiniebla delantera y posterior. ¿Cree Ud. que es correcto?</pregunta>
+		<respuesta id="1" buena="no">No, porque la luz delantera de niebla debe utilizarse aisladamente de la de cruce.</respuesta>
+		<respuesta id="2" buena="si">Sí.</respuesta>
+		<respuesta id="3" buena="no">No, porque las luces de niebla sólo pueden utilizarse simultáneamente con las de carretera.</respuesta>
+	</jugada>
+	<jugada id="5">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">¿Qué le indica el conductor de un turismo no prioritario que utiliza de forma intermitente el avisador acústico y lleva conectada la luz o señal de emergencia?</pregunta>
+		<respuesta id="1" buena="si">Que por circunstancias especialmente graves está realizando un servicio urgente normalmente reservado a los vehículos prioritarios.</respuesta>
+		<respuesta id="2" buena="no">Que circula con avería.</respuesta>
+		<respuesta id="3" buena="no">Que va a frenar su marcha de forma considerable.</respuesta>
+	</jugada>
+	<jugada id="6">
+		<pregunta imagen="6.jpg" cantidadrespuestas="3">La señal cuadrada de fondo azul que se observa en la fotografía...</pregunta>
+		<respuesta id="1" buena="no">Indica el lugar reservado para parada de taxis.</respuesta>
+		<respuesta id="2" buena="si">Preseñaliza una calzada sin salida.</respuesta>
+		<respuesta id="3" buena="no">Preseñaliza una calzada de sentido único.</respuesta>
+	</jugada>
+	<jugada id="7">
+		<pregunta imagen="vacio.png" cantidadrespuestas="2">¿Le está permitido hacer un cambio de sentido de la marcha en un paso a nivel?</pregunta>
+		<respuesta id="1" buena="no">Sí, cuando las barreras estén levantadas.</respuesta>
+		<respuesta id="2" buena="si">No, porque está prohibido, pero sí lo podré hacer en sus proximidades.</respuesta>
+	</jugada>
+	<jugada id="8">
+		<pregunta imagen="8.jpg" cantidadrespuestas="2">El ciclista que se observa en la fotografía circula a velocidad muy reducida, invadiendo parte de la calzada. El conductor del turismo desea adelantarle porque va perturbando la circulación. ¿Le está permitido rebasar las marcas longitudinales adosadas en la que la continua es la más próxima al turismo?</pregunta>
+		<respuesta id="1" buena="si">Sí, cuando no exista peligro para otros usuarios.</respuesta>
+		<respuesta id="2" buena="no">No, si puedo dejar una suficiente separación de seguridad.</respuesta>
+	</jugada>
+	<jugada id="9">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">En poblado, ¿qué distancia de seguridad debe dejar respecto al vehículo que circula delante de su turismo al que no pretende adelantar?</pregunta>
+		<respuesta id="1" buena="no">50 metros, como mínimo.</respuesta>
+		<respuesta id="2" buena="si">Un espacio libre que me permita detener mi vehículo en caso de frenado brusco del que circula delante sin colisionar con él.</respuesta>
+		<respuesta id="3" buena="no">Un espacio libre que permita al vehículo que me sigue adelantarme con seguridad.</respuesta>
+	</jugada>
+	<jugada id="10">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Si en un accidente de circulación una persona ha sufrido una quemadura en una mano, ¿qué actuación, de las que se citan a continuación, es correcta llevar a efecto?</pregunta>
+		<respuesta id="1" buena="no">Pinchar o cortar las ampollas y aplicar una pomada acuosa.</respuesta>
+		<respuesta id="2" buena="no">Quitar las ropas que hayan quedado adheridas a la piel quemada para evitar infecciones.</respuesta>
+		<respuesta id="3" buena="si">Mantener elevada la zona quemada y refrescarla con agua fría.</respuesta>
+	</jugada>
+	<jugada id="11">
+		<pregunta imagen="11.jpg" cantidadrespuestas="3">¿Qué prohíbe la señal de la fotografía?</pregunta>
+		<respuesta id="1" buena="si">Cambiar el sentido de la marcha.</respuesta>
+		<respuesta id="2" buena="no">Cambiar de dirección a la izquierda.</respuesta>
+		<respuesta id="3" buena="no">Cambiar de dirección y de sentido de la marcha.</respuesta>
+	</jugada>
+	<jugada id="12">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">¿Puede Ud. estacionar su turismo en doble fila?</pregunta>
+		<respuesta id="1" buena="no">Sí, cuando no abandone el puesto del conductor y no sea un obstáculo.</respuesta>
+		<respuesta id="2" buena="no">Sí, cuando lo haga para tomar o dejar personas por tiempo superior a 2 minutos.</respuesta>
+		<respuesta id="3" buena="si">No, porque está prohibido.</respuesta>
+	</jugada>
+	<jugada id="13">
+		<pregunta imagen="13.jpg" cantidadrespuestas="3">¿Qué le indica la señal triangular situada a la derecha de la fotografía?</pregunta>
+		<respuesta id="1" buena="no">Peligro por la proximidad de un lugar en que hay vehículos que obstruyen la calzada debido a avería, accidente u otras causas.</respuesta>
+		<respuesta id="2" buena="si">Peligro por la proximidad de una zona de la calzada cuyo pavimento puede resultar muy deslizante.</respuesta>
+		<respuesta id="3" buena="no">Peligro por la proximidad de un tramo en que la circulación se encuentra detenida o dificultada por congestión del tráfico.</respuesta>
+	</jugada>
+	<jugada id="14">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">¿Debe facilitar el paso a una ambulancia que utiliza la señal luminosa pero no lleva conectado el aparato emisor de señales acústicas?</pregunta>
+		<respuesta id="1" buena="si">Sí, porque está advirtiendo que circula en servicio urgente.</respuesta>
+		<respuesta id="2" buena="no">No, porque no circula en servicio urgente.</respuesta>
+		<respuesta id="3" buena="no">Sí. Siempre hay que facilitar el paso a una ambulancia, aún cuando no utilice ninguna señal.</respuesta>
+	</jugada>
+	<jugada id="15">
+		<pregunta imagen="15.jpg" cantidadrespuestas="3">La señal que se observa a la derecha de la fotografía...</pregunta>
+		<respuesta id="1" buena="si">Le advierte de un peligro por la proximidad de un lugar frecuentado por niños, tal como una escuela, una zona de juego, etc.</respuesta>
+		<respuesta id="2" buena="no">Le informa de la proximidad de una zona recreativa.</respuesta>
+		<respuesta id="3" buena="no">Le advierte del peligro que supone la proximidad de un paso para peatones.</respuesta>
+	</jugada>
+	<jugada id="16">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Cuando se atiende a un herido en accidente de circulación, lo que primero que se debe averiguar es:</pregunta>
+		<respuesta id="1" buena="no">Si el herido tiene pulso en el brazo.</respuesta>
+		<respuesta id="2" buena="si">Si está consciente o inconsciente.</respuesta>
+		<respuesta id="3" buena="no">Si sufre hemorragias.</respuesta>
+	</jugada>
+	<jugada id="17">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Si con su turismo arrastra un remolque de 750 kilogramos de masa máxima autorizada, ¿debe llevar la tarjeta de inspección técnica del remolque?</pregunta>
+		<respuesta id="1" buena="no">No, porque sólo es obligatorio si el remolque supera los 750 kilogramos de masa máxima autorizada.</respuesta>
+		<respuesta id="2" buena="si">Sí, y además, en la tarjeta de inspección técnica del turismo deberá figurar que éste lleva un sistema de acoplamiento compatible con el del remolque.</respuesta>
+		<respuesta id="3" buena="no">No; es suficiente con llevar la tarjeta de inspección técnica del turismo, siempre que en su reverso figura que éste lleva un sistema de acoplamiento compatible con el del remolque.</respuesta>
+	</jugada>
+	<jugada id="18">
+		<pregunta imagen="18.jpg" cantidadrespuestas="3">Ud. se encuentra detenido ante el semáforo en rojo que se observa en la fotografía. ¿Cree Ud. que es conveniente parar el motor como medida de ahorro?</pregunta>
+		<respuesta id="1" buena="no">Sí, porque disminuye el consumo de carburante y la contaminación ambiental.</respuesta>
+		<respuesta id="2" buena="no">Es indiferente. Tal circunstancia no influye en el consumo de carburante.</respuesta>
+		<respuesta id="3" buena="si">No, porque en este caso, al ser una detención momentánea, resulta antieconómico.</respuesta>
+	</jugada>
+	<jugada id="19">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">La luz amarilla fija de un semáforo, ¿le obliga a detenerse?</pregunta>
+		<respuesta id="1" buena="no">Sí, siempre.</respuesta>
+		<respuesta id="2" buena="si">Sí, salvo que, cuando se encienda, se encuentre el vehículo tan cerca del lugar de detención que no pueda detenerse antes del mismo en condiciones de seguridad suficientes.</respuesta>
+		<respuesta id="3" buena="no">Sólo si en el mismo poste del semáforo hay una señal de STOP.</respuesta>
+	</jugada>
+	<jugada id="20">
+		<pregunta imagen="vacio.png" cantidadrespuestas="2">En los pasos inferiores, ¿Está permitido parar?</pregunta>
+		<respuesta id="1" buena="si">No.</respuesta>
+		<respuesta id="2" buena="no">Sí.</respuesta>
+	</jugada>
+	<jugada id="21">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">¿Cuántos espejos retrovisores, como mínimo, debe llevar instalados un turismo?</pregunta>
+		<respuesta id="1" buena="no">Tres: dos exteriores, situados uno a cada lado del vehículo, y uno interior.</respuesta>
+		<respuesta id="2" buena="no">Dos exteriores, uno a cada lado del vehículo.</respuesta>
+		<respuesta id="3" buena="si">Dos: uno interior y otro exterior en el lado izquierdo.</respuesta>
+	</jugada>
+	<jugada id="22">
+		<pregunta imagen="22.jpg" cantidadrespuestas="3">Si necesariamente debe circular por un tramo de calzada anegado de agua, ¿cómo debe hacerlo?</pregunta>
+		<respuesta id="1" buena="si">En primera, lentamente y a una velocidad y aceleración sostenida, procurando que la velocidad del motor y la relación de marchas estén adecuadas.</respuesta>
+		<respuesta id="2" buena="no">Acelerando, para atravesar la zona lo antes posible.</respuesta>
+		<respuesta id="3" buena="no">Pisando ligera y suavemente el pedal del freno de forma continuada hasta que se haya atravesado la zona inundada.</respuesta>
+	</jugada>
+	<jugada id="23">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Una señal de limitación de velocidad, pintada sobre la calzada y situada en un carril delimitado por líneas longitudinales discontinuas, se refiere...</pregunta>
+		<respuesta id="1" buena="no">A todos los carriles que tenga la calzada, porque la línea es discontinúa.</respuesta>
+		<respuesta id="2" buena="no">Únicamente al carril en que está situada la señal y al contiguo.</respuesta>
+		<respuesta id="3" buena="si">Exclusivamente a los vehículos que circulan por el carril en el que está situada la señal.</respuesta>
+	</jugada>
+	<jugada id="24">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">¿Es obligatorio llevar como dotación en su turismo dispositivos de preseñalización de peligro?</pregunta>
+		<respuesta id="1" buena="no">No es obligatorio, pero sí muy aconsejable.</respuesta>
+		<respuesta id="2" buena="no">Sí, debo llevar un dispositivo, aunque es muy aconsejable llevar dos.</respuesta>
+		<respuesta id="3" buena="si">Sí, deberé llevar dos.</respuesta>
+	</jugada>
+	<jugada id="25">
+		<pregunta imagen="25.jpg" cantidadrespuestas="3">Si Ud. conduce un camión de 3.500 kilogramos de masa máxima autorizada y encuentra esta señal, ¿le está permitido circular por la vía que señaliza?</pregunta>
+		<respuesta id="1" buena="no">Sí, porque sólo prohíbe el acceso a los turismos.</respuesta>
+		<respuesta id="2" buena="si">No, porque prohíbe el acceso a vehículos de motor, excepto motocicletas de dos ruedas.</respuesta>
+		<respuesta id="3" buena="no">Sí, porque sólo prohíbe el acceso a turismos y motocicletas de dos ruedas.</respuesta>
+	</jugada>
+	<jugada id="26">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">El seguro de Responsabilidad Civil de suscripción obligatoria, vulgarmente denominado ‘seguro obligatorio’, ¿cubre los daños en la persona del conductor del vehículo asegurado?</pregunta>
+		<respuesta id="1" buena="no">Sí, siempre.</respuesta>
+		<respuesta id="2" buena="si">No.</respuesta>
+		<respuesta id="3" buena="no">Sí, pero únicamente cuando el conductor no es propietario del vehículo.</respuesta>
+	</jugada>
+	<jugada id="27">
+		<pregunta imagen="27.jpg" cantidadrespuestas="3">Esta señal indica peligro por...</pregunta>
+		<respuesta id="1" buena="no">La proximidad de un paso para peatones regulado por semáforo.</respuesta>
+		<respuesta id="2" buena="no">La proximidad de una población en la que está prohibido circular a más de 60 kilómetros por hora.</respuesta>
+		<respuesta id="3" buena="si">La proximidad de una intersección aislada o tramo con la circulación regulada por semáforo.</respuesta>
+	</jugada>
+	<jugada id="28">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">¿Cree Ud. que si un vehículo tiene un ralentí demasiado alto influye en el consumo de carburante?</pregunta>
+		<respuesta id="1" buena="si">Sí, porque al girar el motor más deprisa, consume más.</respuesta>
+		<respuesta id="2" buena="no">Sí, porque consume menos carburante.</respuesta>
+		<respuesta id="3" buena="no">No, tal circunstancia no influye ni altera el consumo.</respuesta>
+	</jugada>
+	<jugada id="29">
+		<pregunta imagen="29.jpg" cantidadrespuestas="3">Si al aproximarse a un paso estrecho Ud. encuentra esta señal, ¿qué debe hacer?</pregunta>
+		<respuesta id="1" buena="si">No pasar si obligo a los vehículos que circulan en sentido contrario al detenerse.</respuesta>
+		<respuesta id="2" buena="no">Pasar en todo caso, porque la señal me concede prioridad de paso.</respuesta>
+		<respuesta id="3" buena="no">No pasar porque la circulación en el sentido de mi marcha está prohibida.</respuesta>
+	</jugada>
+	<jugada id="30">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">En una vía en obras el paso está regulado por personal de la obra. ¿Está Ud. obligado a obedecer las señales que realice dicho personal en ausencia de Agentes de la Circulación?</pregunta>
+		<respuesta id="1" buena="no">No.</respuesta>
+		<respuesta id="2" buena="no">Sí, pero sólo en tramos de vías interurbanas.</respuesta>
+		<respuesta id="3" buena="si">Sí.</respuesta>
+	</jugada>
+	<jugada id="31">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">En una intersección de una vía pavimentada con otra sin pavimentar, ¿qué vehículos tienen preferencia de paso si no existe señal alguna que regule la preferencia de paso?</pregunta>
+		<respuesta id="1" buena="no">Los vehículos que se aproximen por la derecha.</respuesta>
+		<respuesta id="2" buena="si">Los vehículos que circulen por la vía pavimentada.</respuesta>
+		<respuesta id="3" buena="no">Los vehículos que circulen por la vía más ancha.</respuesta>
+	</jugada>
+	<jugada id="32">
+		<pregunta imagen="32.jpg" cantidadrespuestas="3">En la calzada de la fotografía de doble sentido y arcén de 1 metro de anchura, ¿a qué velocidad máxima le está permitido circular con su turismo a partir de la señal de la fotografía?
+</pregunta>
+		<respuesta id="1" buena="si">90 kilómetros por hora.</respuesta>
+		<respuesta id="2" buena="no">80 kilómetros por hora.</respuesta>
+		<respuesta id="3" buena="no">70 kilómetros por hora.</respuesta>
+	</jugada>
+	<jugada id="33">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Antes de iniciar la maniobra de adelantamiento a un turismo, usted deberá comprobar que el vehículo al que pretende adelantar...</pregunta>
+		<respuesta id="1" buena="no">Le advierte con el indicador de dirección derecho que puede realizarlo en condiciones de seguridad.</respuesta>
+		<respuesta id="2" buena="no">Ha disminuido la velocidad para facilitarle la maniobra.</respuesta>
+		<respuesta id="3" buena="si">Ha indicado su propósito de desplazarse al carril izquierdo, en cuyo caso usted deberá respetar la preferencia que le asiste.</respuesta>
+	</jugada>
+	<jugada id="34">
+		<pregunta imagen="34.jpg" cantidadrespuestas="2">El turismo de la fotografía circula arrastrando un remolque ligero por la autovía a la velocidad máxima que a dicho conjunto le está permitida. Si Ud. conduce su turismo, ¿es correcta su posición en el carril izquierdo si está adelantando?</pregunta>
+		<respuesta id="1" buena="si">Sí, porque estoy adelantando.</respuesta>
+		<respuesta id="2" buena="no">No, porque no me está permitido adelantar ya que el conjunto de vehículos circula a la velocidad máxima que les es permitida.</respuesta>
+	</jugada>
+	<jugada id="35">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">¿Le está permitido utilizar con su turismo por un carril reservado para autobuses?.</pregunta>
+		<respuesta id="1" buena="no">No, porque está prohibido siempre.</respuesta>
+		<respuesta id="2" buena="no">Sí, siempre que dicho carril sea el que más conviene a mi destino.</respuesta>
+		<respuesta id="3" buena="si">Sí, pero sólo en el tramo del carril en el que la línea exterior que separa dicho carril del resto de la calzada sea discontinua y únicamente para realizar alguna maniobra que no sea la de parar, estacionar, cambiar el sentido de la marcha o adelantar.</respuesta>
+	</jugada>
+	<jugada id="36">
+		<pregunta imagen="36.jpg" cantidadrespuestas="2">De acuerdo con las circunstancias que se observan en la fotografía, ¿es correcto el adelantamiento que realiza usted con su turismo al conjunto formado por el tractor y el remolque?</pregunta>
+		<respuesta id="1" buena="si">Sí.</respuesta>
+		<respuesta id="2" buena="no">No.</respuesta>
+	</jugada>
+	<jugada id="37">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Con su turismo se aproxima a una intersección en la que existe un semáforo encendido con luz amarilla intermitente. ¿Debe ceder el paso a los vehículos que se aproximen por la vía transversal?</pregunta>
+		<respuesta id="1" buena="si">Sí, porque debo extremar la precaución y ceder el paso, si es necesario, tanto a los vehículos que se aproximen por la derecha como por la izquierda.</respuesta>
+		<respuesta id="2" buena="no">Sí, pero únicamente cuando junto al semáforo haya una señal vertical que me obligue a ceder el paso.</respuesta>
+		<respuesta id="3" buena="no">No porque el semáforo me indica que debo extremar la precaución y en caso necesario a ceder el paso, únicamente, a los vehículos que se aproximen por la derecha.</respuesta>
+	</jugada>
+	<jugada id="38">
+		<pregunta imagen="38.jpg" cantidadrespuestas="3">El conductor del vehículo azul que se observa en la fotografía pretende cambiar de dirección a la izquierda atravesando la zona enmarcada de la izquierda. ¿Le está permitido hacerlo?</pregunta>
+		<respuesta id="1" buena="no">Sí.</respuesta>
+		<respuesta id="2" buena="si">No.</respuesta>
+		<respuesta id="3" buena="no">Sí, pero únicamente cuando no obstaculice a los demás.</respuesta>
+	</jugada>
+	<jugada id="39">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Usted ha adelantado con su turismo en una autopista a otro turismo que circula por el carril derecho. Si dicho carril está libre y no desea realizar otro adelantamiento, ¿debe regresar al carril derecho?</pregunta>
+		<respuesta id="1" buena="si">Sí.</respuesta>
+		<respuesta id="2" buena="no">Sólo cuando la calzada tenga dos carriles.</respuesta>
+		<respuesta id="3" buena="no">Sólo cuando moleste a los vehículos que circulen detrás a mayor velocidad.</respuesta>
+	</jugada>
+	<jugada id="40">
+		<pregunta imagen="40.jpg" cantidadrespuestas="3">Usted conduce un turismo por esta carretera convencional. Teniendo en cuenta la señalización vertical y las líneas marcadas en la calzada, a partir de la señal...</pregunta>
+		<respuesta id="1" buena="si">No puedo adelantar, porque está prohibido.</respuesta>
+		<respuesta id="2" buena="no">Puedo adelantar, incluso invadiendo la parte izquierda de la calzada, porque es un tramo recto y tengo visibilidad.	</respuesta>
+		<respuesta id="3" buena="no">Podré adelantar por el arcén derecho.</respuesta>
+	</jugada>
+	<jugada id="41">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Si usted desea cambiar de dirección a la izquierda, debe saber que no le estará permitido cuando...</pregunta>
+		<respuesta id="1" buena="no">No exista un carril especialmente acondicionado para realizarlo.</respuesta>
+		<respuesta id="2" buena="si">No exista visibilidad suficiente.</respuesta>
+		<respuesta id="3" buena="no">No exista señal que autorice expresamente la maniobra.</respuesta>
+	</jugada>
+	<jugada id="42">
+		<pregunta imagen="42.jpg" cantidadrespuestas="3">Al circular por el túnel suficientemente iluminado de la fotografía, ¿qué luces debe llevar encendidas en su turismo?.
+</pregunta>
+		<respuesta id="1" buena="no">Las luces de posición únicamente.</respuesta>
+		<respuesta id="2" buena="no">Las luces de posición o las de corto alcance o cruce, indistintamente.</respuesta>
+		<respuesta id="3" buena="si">Las de posición y las de cruce.</respuesta>
+	</jugada>
+	<jugada id="43">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Si a consecuencia de circunstancias especialmente graves, usted se ve forzado, porque no puede recurrir a otro medio, a trasladar en su turismo a un herido en accidente de circulación, ¿está obligado a respetar las normas de circulación?</pregunta>
+		<respuesta id="1" buena="si">Sí, en todo caso.</respuesta>
+		<respuesta id="2" buena="no">No, porque realizo un servicio urgente.</respuesta>
+		<respuesta id="3" buena="no">Sí, pero únicamente las relativas a comportamiento en intersecciones.</respuesta>
+	</jugada>
+	<jugada id="44">
+		<pregunta imagen="44.jpg" cantidadrespuestas="2">El conductor del turismo que se observa en la fotografía debe cederle el paso a usted porque se incorpora desde un camino privado a la circulación. ¿Cree usted que está situado correctamente?</pregunta>
+		<respuesta id="1" buena="no">Sí, aunque me obliga a desplazar mi vehículo a la izquierda de la calzada.</respuesta>
+		<respuesta id="2" buena="si">No, porque ha invadido la calzada.</respuesta>
+	</jugada>
+	<jugada id="45">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">En poblado, ¿está permitido hacer uso de las advertencias acústicas de los vehículos?</pregunta>
+		<respuesta id="1" buena="no">Sí, para advertir al conductor de otro vehículo el propósito de adelantarlo.</respuesta>
+		<respuesta id="2" buena="no">Sí, salvo que exista señal que lo prohíba expresamente.</respuesta>
+		<respuesta id="3" buena="si">Sólo excepcionalmente para evitar un posible accidente.</respuesta>
+	</jugada>
+	<jugada id="46">
+		<pregunta imagen="46.jpg" cantidadrespuestas="3">El permiso que autoriza a conducir turismos también autoriza a conducir tractores agrícolas. Si usted condujera el tractor agrícola de la fotografía con 3.500 kilogramos de masa máxima autorizada, ¿lo haría por el arcén?</pregunta>
+		<respuesta id="1" buena="no">No, porque sólo está permitida la circulación por el arcén cuando el tractor tenga una masa máxima autorizada no superior a 2.500 kilogramos.</respuesta>
+		<respuesta id="2" buena="si">Sí, porque es obligatorio si no supera dicho peso.</respuesta>
+		<respuesta id="3" buena="no">Sí, pero sólo si el tractor está averiado.</respuesta>
+	</jugada>
+	<jugada id="47">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Para incorporarse a la circulación desde el lugar donde está estacionado su turismo, tiene que dar marcha atrás invadiendo un cruce de vías, ¿le está permitido hacerlo?</pregunta>
+		<respuesta id="1" buena="si">No.</respuesta>
+		<respuesta id="2" buena="no">Sí, siempre que recurra a las indicaciones de otra persona para realizar la maniobra con seguridad.</respuesta>
+		<respuesta id="3" buena="no">Sí, siempre que no recorra en esa marcha más de 15 metros.</respuesta>
+	</jugada>
+	<jugada id="48">
+		<pregunta imagen="48.jpg" cantidadrespuestas="3">¿Le está permitido estacionar su turismo a la derecha de la calzada teniendo en cuenta que hay una línea amarilla discontinua pintada junto al bordillo?</pregunta>
+		<respuesta id="1" buena="no">No.</respuesta>
+		<respuesta id="2" buena="si">No, porque lo prohíbe la línea pintada junto al bordillo.</respuesta>
+		<respuesta id="3" buena="no">No, porque circulo por una vía preferente.</respuesta>
+	</jugada>
+	<jugada id="49">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Usted llega a un paso de nivel con las barreras levantadas, ¿qué hará si existe un semáforo encendido con luz roja intermitente?</pregunta>
+		<respuesta id="1" buena="si">Detenerme hasta que el semáforo se apague o se encienda otra luz.</respuesta>
+		<respuesta id="2" buena="no">Pasar, porque la barrera está levantadas.</respuesta>
+		<respuesta id="3" buena="no">Detenerme para observar y pasar sin esperar a que el semáforo me de paso.</respuesta>
+	</jugada>
+	<jugada id="50">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">De noche circula por una travesía insuficientemente iluminada, ¿qué luces debe llevar encendidas en su turismo?</pregunta>
+		<respuesta id="1" buena="si">Las de posición y corto alcance o cruce.</respuesta>
+		<respuesta id="2" buena="no">Las de corto alcance o cruce y largo alcance, además de las de posición, según las circunstancias.</respuesta>
+		<respuesta id="3" buena="no">Las de posición y largo alcance o carretera.</respuesta>
+	</jugada>
+	<jugada id="51">
+		<pregunta imagen="51.jpg" cantidadrespuestas="2">El conductor del vehículo rojo de la fotografía circula por el arcén derecho de esta autopista, ¿lo hace correctamente teniendo en cuenta que, debido a una avería, se vehículo no alcanza los 60 kilómetros por hora?</pregunta>
+		<respuesta id="1" buena="si">Sí, siempre que perturbe la circulación y abandone la autopista por la primera salida.</respuesta>
+		<respuesta id="2" buena="no">No, porque en ningún caso puede circular un vehículo automóvil por el arcén de una autopista.</respuesta>
+	</jugada>
+	<jugada id="52">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Si circula de noche con su turismo por una vía urbana insuficientemente iluminada, ¿qué luces debe encender?</pregunta>
+		<respuesta id="1" buena="si">Las de posición y las de cruce.</respuesta>
+		<respuesta id="2" buena="no">Las de posición y las de carretera, sustituyendo las de carretera por las de cruce.</respuesta>
+		<respuesta id="3" buena="no">Las de posición y, las de cruce y carretera, indistintamente.</respuesta>
+	</jugada>
+	<jugada id="53">
+		<pregunta imagen="53.jpg" cantidadrespuestas="3">Por la vía que se observa en la fotografía, Ud. no podrá circular con su turismo, sin causa justificada, a una velocidad inferior a...</pregunta>
+		<respuesta id="1" buena="no">60 km/h si entorpece la marcha normal de otros vehículos circulando.</respuesta>
+		<respuesta id="2" buena="si">60 km/h, circulen o no otros vehículos.</respuesta>
+		<respuesta id="3" buena="no">50 km/h, circulen o no otros vehículos.</respuesta>
+	</jugada>
+	<jugada id="54">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Si su turismo queda inmovilizado de día y con tiempo claro en el arcén de una autopista a causa de una avería, ¿debe encender alguna luz en su vehículo?</pregunta>
+		<respuesta id="1" buena="no">Sí, las luces de posición, siempre.</respuesta>
+		<respuesta id="2" buena="no">No.</respuesta>
+		<respuesta id="3" buena="si">Sí, la señal de emergencia si el vehículo la lleva.</respuesta>
+	</jugada>
+	<jugada id="55">
+		<pregunta imagen="55.jpg" cantidadrespuestas="3">En esta intersección en la que no existe línea de detención pintada en la calzada, ¿dónde debe detenerse?</pregunta>
+		<respuesta id="1" buena="no">Al lado de la señal, sin rebasarla.</respuesta>
+		<respuesta id="2" buena="no">En la intersección, siempre que la posición de mi vehículo no modifique la trayectoria normal de los vehículos que circulen por la vía transversal.</respuesta>
+		<respuesta id="3" buena="si">Inmediatamente antes de llegar a la intersección, es decir, en la unión de las dos vías.</respuesta>
+	</jugada>
+	<jugada id="56">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">La maniobra de marcha atrás, en los casos en que, excepcionalmente, está permitida, ¿puede efectuarse en toda clase de vías?</pregunta>
+		<respuesta id="1" buena="si">No, porque está absolutamente prohibida en autopistas y autovías.</respuesta>
+		<respuesta id="2" buena="no">Sí.</respuesta>
+		<respuesta id="3" buena="no">No, porque sólo está permitida en vías dentro de poblado.</respuesta>
+	</jugada>
+	<jugada id="57">
+		<pregunta imagen="57.jpg" cantidadrespuestas="2">Con su turismo circula por un carril que ha sido habilitado para ser utilizado en sentido contrario al habitual, ¿le está permitido desplazarse al destinado al sentido normal de circulación para adelantar?</pregunta>
+		<respuesta id="1" buena="si">No.</respuesta>
+		<respuesta id="2" buena="no">Sí.</respuesta>
+	</jugada>
+	<jugada id="58">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">En vías de dos sentidos y un carril para cada sentido, siempre que el conductor de un vehículo advierta que va a ser adelantado, debe...</pregunta>
+		<respuesta id="1" buena="no">Disminuir la velocidad.</respuesta>
+		<respuesta id="2" buena="no">Indicar con el indicador de dirección derecho, que permite el adelantamiento.</respuesta>
+		<respuesta id="3" buena="si">Ceñirse al borde derecho de la calzada.</respuesta>
+	</jugada>
+	<jugada id="59">
+		<pregunta imagen="59.jpg" cantidadrespuestas="3">Circula con su turismo a la velocidad mínima establecida para la autovía por una pendiente ascendente. Teniendo en cuenta la señal, ¿por qué carril debe circular?</pregunta>
+		<respuesta id="1" buena="no">Por el derecho, aunque si las circunstancias lo permiten podré circular por el central o por el izquierdo.</respuesta>
+		<respuesta id="2" buena="si">Por el derecho, únicamente.</respuesta>
+		<respuesta id="3" buena="no">Por el central o por el izquierdo, pero nunca por el derecho, que está reservado para el tráfico rápido.</respuesta>
+	</jugada>
+	<jugada id="60">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">En una glorieta en la que no está regulada la preferencia de paso, Ud. pretende acceder a ella, pero observa que, dentro de la vía circular, por su izquierda, circula otro vehículo, ¿debe cederle el paso?</pregunta>
+		<respuesta id="1" buena="no">No, porque solo debo ceder el paso a los vehículos que se aproximen por mi derecha.</respuesta>
+		<respuesta id="2" buena="no">Sí, pero únicamente cuando se trate de vehículos automóviles.</respuesta>
+		<respuesta id="3" buena="si">Sí, porque circula dentro de la vía circular.</respuesta>
+	</jugada>
+	<jugada id="61">
+		<pregunta imagen="61.jpg" cantidadrespuestas="3">¿Es correcta su posición en la calzada de acuerdo con las circunstancias que se observan en la fotografía?</pregunta>
+		<respuesta id="1" buena="no">Sí, porque así dejo el carril de la derecha para los vehículos que vayan a entrar o salir de la autopista.</respuesta>
+		<respuesta id="2" buena="no">Sí, porque en esta vía de varios carriles para el mismo sentido, se puede circular por el que se crea más conveniente.</respuesta>
+		<respuesta id="3" buena="si">No, porque deberé circular por el carril de la derecha y sólo utilizaré los restantes cuando las circunstancias del tráfico o de la vía lo aconsejen.</respuesta>
+	</jugada>
+	<jugada id="62">
+		<pregunta imagen="62.jpg" cantidadrespuestas="3">En poblado, ¿a qué velocidad máxima le está permitido circular si conduce un conjunto formado por un turismo con remolque?</pregunta>
+		<respuesta id="1" buena="si">A 50 km/h.</respuesta>
+		<respuesta id="2" buena="no">A 60 km/h.</respuesta>
+		<respuesta id="3" buena="no">A 40 km/h.</respuesta>
+	</jugada>
+	<jugada id="63">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">¿Es correcto colocar almohadas o cualquier otro objeto debajo de la cabeza de un herido?</pregunta>
+		<respuesta id="1" buena="si">No, no se debe hacer.</respuesta>
+		<respuesta id="2" buena="no">Sí, estará más cómodo.</respuesta>
+		<respuesta id="3" buena="no">Es indiferente.</respuesta>
+	</jugada>
+	<jugada id="64">
+		<pregunta imagen="64.jpg" cantidadrespuestas="3">En el carril de la izquierda de la vía por la que Ud. circula, se ha encendido en el semáforo de carril un aspa roja, ¿qué deben hacer los vehículos que circulan por dicho carril?</pregunta>
+		<respuesta id="1" buena="si">Abandonar el carril en el tiempo más breve posible.</respuesta>
+		<respuesta id="2" buena="no">Cambiarse de carril antes de llegar a la altura del semáforo.</respuesta>
+		<respuesta id="3" buena="no">Detenerse porque por ese carril no pueden circular.</respuesta>
+	</jugada>
+	<jugada id="65">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Si circulando por una carretera, se encuentra con placas de hielo, conviene...</pregunta>
+		<respuesta id="1" buena="no">Acelerar para salir lo más pronto posible del peligro.</respuesta>
+		<respuesta id="2" buena="si">No frenar ni acelerar y conducir con suavidad.</respuesta>
+		<respuesta id="3" buena="no">Llevar el pedal del freno ligeramente presionado para que, en caso de necesidad, la frenada sea más rápida.</respuesta>
+	</jugada>
+	<jugada id="66">
+		<pregunta imagen="66.jpg" cantidadrespuestas="3">En zona urbana Ud. penetra en el paso inferior que se observa en la fotografía. A la vista de la señal circular de color azul, ¿debe encender alguna luz?.</pregunta>
+		<respuesta id="1" buena="no">Sí, las luces de posición para indicar mi presencia.</respuesta>
+		<respuesta id="2" buena="si">Sí, las luces de posición y las de cruce, esté el paso inferior suficientemente o insuficientemente iluminado.</respuesta>
+		<respuesta id="3" buena="no">Sí, las luces de posición y las de largo alcance o carretera si el paso inferior está insuficientemente iluminado.</respuesta>
+	</jugada>
+	<jugada id="67">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Si Ud. se encuentra implicado en un accidente de circulación en el que haya resultado muerta alguna persona, deberá...</pregunta>
+		<respuesta id="1" buena="no">Retirar inmediatamente de la calzada a la víctima.</respuesta>
+		<respuesta id="2" buena="si">Evitar la modificación del estado de las cosas y de las huellas u otras pruebas para determinar la responsabilidad, salvo que con ello se perjudique la seguridad de los heridos o la circulación.</respuesta>
+		<respuesta id="3" buena="no">No tocar, en ningún caso, a la víctima ni el resto de los heridos ni los vehículos hasta que llegue la autoridad.</respuesta>
+	</jugada>
+	<jugada id="68">
+		<pregunta imagen="68.jpg" cantidadrespuestas="3">El vehículo blanco que se observa a la derecha de la fotografía está estacionado ocupando parte de la acera, ¿es correcto?</pregunta>
+		<respuesta id="1" buena="no">Sí, porque, de no ocupar parte de la acera, impediría el paso de otros vehículos.</respuesta>
+		<respuesta id="2" buena="no">Sí, porque aunque el comportamiento no es correcto, deja espacio suficiente en la acera para que pasen los peatones.</respuesta>
+		<respuesta id="3" buena="si">No, porque está utilizando parte de la vía reservada a los peatones.</respuesta>
+	</jugada>
+	<jugada id="69">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Ud. circula por un carril adicional que se ha habilitado por razones de fluidez. Como norma general, ¿qué obligaciones debe tener en cuenta?</pregunta>
+		<respuesta id="1" buena="si">Que debo circular utilizando la luz de cruce tanto de día como de noche, al menos, y a una velocidad máxima de 80 km/h y mínima de 60.</respuesta>
+		<respuesta id="2" buena="no">Que por dicho carril deben sólo circular turismos y motocicletas.</respuesta>
+		<respuesta id="3" buena="no">Solamente que debo utilizar la luz de cruce tanto de día como de noche.</respuesta>
+	</jugada>
+	<jugada id="70">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">¿Cómo advertirá, fuera de poblado, al conductor del vehículo que circula delante que Ud. pretende adelantarlo?</pregunta>
+		<respuesta id="1" buena="no">Con las señales acústicas, únicamente.</respuesta>
+		<respuesta id="2" buena="si">Con las señales acústicas o las luminosas utilizando en forma intermitente.</respuesta>
+		<respuesta id="3" buena="no">Con las señales luminosas, únicamente.</respuesta>
+	</jugada>
+	<jugada id="71">
+		<pregunta imagen="71.jpg" cantidadrespuestas="3">De acuerdo con la señalización que se observa en la fotografía y que la línea amarilla es continua, ¿le está permitido parar o estacionar?</pregunta>
+		<respuesta id="1" buena="no">Estacionar, no; parar, sí, debido a su corta duración.</respuesta>
+		<respuesta id="2" buena="no">Sí, porque no se obstaculiza a otros vehículos ya que hay más carriles para circular.</respuesta>
+		<respuesta id="3" buena="si">No, no se debe parar ni estacionar.</respuesta>
+	</jugada>
+	<jugada id="72">
+		<pregunta imagen="vacio.png" cantidadrespuestas="2">Ud. desea realizar la maniobra de cambio de dirección a la izquierda pero no existe visibilidad suficiente en la intersección. ¿Le está permitido realizar la maniobra?</pregunta>
+		<respuesta id="1" buena="si">No.</respuesta>
+		<respuesta id="2" buena="no">Sí.</respuesta>
+	</jugada>
+	<jugada id="73">
+		<pregunta imagen="73.jpg" cantidadrespuestas="3">Cuando Ud. se acerca al paso a nivel que se observa en la fotografía, la barrera comienza a bajar para atravesarse en la calzada, ¿debe Ud. cruzar el paso a nivel?</pregunta>
+		<respuesta id="1" buena="no">Sí, siempre que observe que no se aproxima ningún vehículo que circule sobre raíles.</respuesta>
+		<respuesta id="2" buena="si">No, en ningún caso.</respuesta>
+		<respuesta id="3" buena="no">Sí, teniendo la precaución de cruzar antes de que esté la barrera completamente bajada.</respuesta>
+	</jugada>
+	<jugada id="74">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Para incorporarse a la circulación, ¿puede dar marcha atrás, si es necesario?</pregunta>
+		<respuesta id="1" buena="si">Sí, es una de las maniobras en las que está permitido hacer marcha atrás.</respuesta>
+		<respuesta id="2" buena="no">Sí, pero sólo en vías urbanas.</respuesta>
+		<respuesta id="3" buena="no">No, en ningún caso. La marcha atrás está prohibida.</respuesta>
+	</jugada>
+	<jugada id="75">
+		<pregunta imagen="75.jpg" cantidadrespuestas="3">Cuando Ud. se prepare para adelantar al camión cisterna que se observa en la fotografía, de acuerdo con las señales que el mismo lleva, tendrá que tener en cuenta que es un vehículo que...</pregunta>
+		<respuesta id="1" buena="no">Tiene un masa máxima autorizada superior a 3.500 kilogramos.</respuesta>
+		<respuesta id="2" buena="no">Mide más de 2,50 metros de ancho.</respuesta>
+		<respuesta id="3" buena="si">Mide más de 12 metros.</respuesta>
+	</jugada>
+	<jugada id="76">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">La fatiga que produce la conducción hace que, además de otros síntomas, disminuya...</pregunta>
+		<respuesta id="1" buena="si">La capacidad de concentración y la seguridad.</respuesta>
+		<respuesta id="2" buena="no">El tiempo de reacción.</respuesta>
+		<respuesta id="3" buena="no">La sensibilidad al deslumbramiento de noche.</respuesta>
+	</jugada>
+	<jugada id="77">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">En la baca de su turismo, ¿puede transportar otra carga que no sea equipaje?</pregunta>
+		<respuesta id="1" buena="no">No, porque está prohibido.</respuesta>
+		<respuesta id="2" buena="no">Sí, siempre que la carga no sobresalga de la estructura del vehículo.</respuesta>
+		<respuesta id="3" buena="si">Sí, siempre que la carga sea adecuada a las características del vehículo, no comprometa su estabilidad y, en su caso, vaya correctamente señalizada.</respuesta>
+	</jugada>
+	<jugada id="78">
+		<pregunta imagen="78.jpg" cantidadrespuestas="3">El vehículo que se observa en la fotografía lleva una señal de color naranja con reborde negro, compuesta por dos rectángulos y números en su interior, ¿qué significa?</pregunta>
+		<respuesta id="1" buena="si">Que el vehículo transporta mercancía peligrosas determinadas por los números.</respuesta>
+		<respuesta id="2" buena="no">Que el vehículo excede en masas y dimensiones.</respuesta>
+		<respuesta id="3" buena="no">Que el vehículo lleva una matrícula europea.</respuesta>
+	</jugada>
+	<jugada id="79">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">En el turismo que Ud. conduce, va a viajar como pasajero su hijo de ocho años, ¿le está permitido que lo haga en el asiento delantero del mismo?</pregunta>
+		<respuesta id="1" buena="no">No, en ningún caso.</respuesta>
+		<respuesta id="2" buena="si">No, salvo que utilice asientos de seguridad o dispositivos debidamente homologados para este fin.</respuesta>
+		<respuesta id="3" buena="no">Sí, en todo caso.</respuesta>
+	</jugada>
+	<jugada id="80">
+		<pregunta imagen="80.jpg" cantidadrespuestas="3">La señal cuadrada de fondo azul que se observa en el centro de la fotografía le indica...</pregunta>
+		<respuesta id="1" buena="si">Que es una calzada sin salida en la que los vehículos sólo pueden salir por el lugar de entrada.</respuesta>
+		<respuesta id="2" buena="no">El lugar donde está autorizado el estacionamiento de vehículos.</respuesta>
+		<respuesta id="3" buena="no">Un lugar reservado para el estacionamiento de taxis.</respuesta>
+	</jugada>
+	<jugada id="81">
+		<pregunta imagen="81.jpg" cantidadrespuestas="3">¿Qué le indica la señal que se observa en la fotografía?</pregunta>
+		<respuesta id="1" buena="no">Que la vía se desvía a la izquierda.</respuesta>
+		<respuesta id="2" buena="si">Que a mil metros existe una zona de escape de la calzada, acondicionada para que un vehículo se detenga en caso de fallo de frenos.</respuesta>
+		<respuesta id="3" buena="no">Que a la izquierda continúa la calzada y de frente a mil metros existe un camino forestal.</respuesta>
+	</jugada>
+	<jugada id="82">
+		<pregunta imagen="82.jpg" cantidadrespuestas="3">¿Le está permitido con su turismo acceder a una calzada en la que a su entrada esté situada la señal circular que se observa en la fotografía?</pregunta>
+		<respuesta id="1" buena="no">Sólo si no se aproximan vehículos en sentido contrario.</respuesta>
+		<respuesta id="2" buena="si">No, porque la señal prohíbe la entrada a la vía en la que está situada.</respuesta>
+		<respuesta id="3" buena="no">No, porque es una calzada cortada al tráfico.</respuesta>
+	</jugada>
+	<jugada id="83">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Cuando usted se aproxime a una intersección que está señalizada con las señales verticales de “Stop” o “Ceda el paso”, ¿cómo debe hacerlo?</pregunta>
+		<respuesta id="1" buena="no">Muy lentamente, para poder detenerme siempre en la intersección.</respuesta>
+		<respuesta id="2" buena="si">Mostrando con suficiente antelación por la forma de circular, y especialmente por la reducción paulatina de la velocidad, que voy a ceder el paso.</respuesta>
+		<respuesta id="3" buena="no">A la misma velocidad a la que voy circulando en relación con la vía.</respuesta>
+	</jugada>
+	<jugada id="84">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Entre los efectos que produce el alcohol en el conductor se encuentra la...</pregunta>
+		<respuesta id="1" buena="si">Incorrecta apreciación de distancias y velocidades.</respuesta>
+		<respuesta id="2" buena="no">Ampliación del campo visual.</respuesta>
+		<respuesta id="3" buena="no">Disminución de la distancia de frenado.</respuesta>
+	</jugada>
+	<jugada id="85">
+		<pregunta imagen="85.jpg" cantidadrespuestas="3">¿Qué le indica la señal que se observa en la fotografía?</pregunta>
+		<respuesta id="1" buena="no">La situación de un merendero.</respuesta>
+		<respuesta id="2" buena="si">La situación de un área de descanso.</respuesta>
+		<respuesta id="3" buena="no">La situación de un próximo puesto de peaje.</respuesta>
+	</jugada>
+	<jugada id="86">
+		<pregunta imagen="86.jpg" cantidadrespuestas="3">Si usted circula conduciendo su turismo por una vía en la que está situada esta señal, y, por razones de emergencia, lo hace a velocidad anormalmente reducida de acuerdo con el Reglamento de Circulación, deberá...</pregunta>
+		<respuesta id="1" buena="si">Abandonar la vía por la primera salida.</respuesta>
+		<respuesta id="2" buena="no">Circular por el arcén hasta llegar al destino elegido.</respuesta>
+		<respuesta id="3" buena="no">Continuar circulando por la derecha de la calzada hasta el destino elegido, ya que no circulo por una autopista.</respuesta>
+	</jugada>
+	<jugada id="87">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">La instalación del airbag en un vehículo, ¿sustituye la obligación de utilizar el cinturón de seguridad?</pregunta>
+		<respuesta id="1" buena="no">Sí, porque evita el impacto del conductor y pasajeros contra los elementos del vehículo.</respuesta>
+		<respuesta id="2" buena="no">Sí, porque evita lesiones en el cabeza y cuello.</respuesta>
+		<respuesta id="3" buena="si">No, porque actúa complementando la protección que ofrece el cinturón de seguridad.</respuesta>
+	</jugada>
+	<jugada id="88">
+		<pregunta imagen="88.jpg" cantidadrespuestas="3">Circula con su turismo a 100 kilómetros por hora por el carril de la derecha y se encuentra con la señal de la fotografía. ¿Es correcta su posición en la calzada?</pregunta>
+		<respuesta id="1" buena="no">Sí, porque el carril de le derecha está reservado para el tráfico lento pero opcionalmente se puede utilizar para facilitar los adelantamientos.</respuesta>
+		<respuesta id="2" buena="no">No, me deberé cambiar de carril, ya que los dos de la izquierda están reservados para el tráfico rápido.</respuesta>
+		<respuesta id="3" buena="si">Sí, porque si las circunstancias lo permiten, tengo obligación de utilizar el carril de la derecha.</respuesta>
+	</jugada>
+	<jugada id="89">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Usted ha sufrido una avería en su vehículo y lo ha dejado inmovilizado en el arcén. ¿Debe señalizarlo?</pregunta>
+		<respuesta id="1" buena="no">No, porque el vehículo no está en la calzada.</respuesta>
+		<respuesta id="2" buena="no">Sí, con los triángulos de preseñalización de peligro u otros dispositivos de análoga eficacia.</respuesta>
+		<respuesta id="3" buena="si">Sí, con la señal de emergencia del vehículo, los triángulos de preseñalización de peligro y, en su caso, con las luces de posición.</respuesta>
+	</jugada>
+	<jugada id="90">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">En poblado, ¿qué ocupantes de un turismo están obligados a utilizar el cinturón de seguridad?</pregunta>
+		<respuesta id="1" buena="no">Sólo el conductor y los ocupantes de los asientos delanteros.</respuesta>
+		<respuesta id="2" buena="si">El conductor y todos los ocupantes.</respuesta>
+		<respuesta id="3" buena="no">Sólo el conductor.</respuesta>
+	</jugada>
+	<jugada id="91">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">En una vía con dos carriles para el mismo sentido de la marcha, circula conduciendo su turismo por el carril izquierdo porque ha adelantado a otro turismo. ¿Debe reintegrarse de nuevo al carril derecho si no va a seguir adelantando?</pregunta>
+		<respuesta id="1" buena="no">Sí, cuando mi vehículo suponga un obstáculo para los conductores que circulan detrás más rápidamente.</respuesta>
+		<respuesta id="2" buena="no">No, porque en vías con más de un carril para cada sentido, no es obligatorio volver al carril derecho.</respuesta>
+		<respuesta id="3" buena="si">Sí, obligatoriamente debo volver al carril derecho.</respuesta>
+	</jugada>
+	<jugada id="92">
+		<pregunta imagen="92.jpg" cantidadrespuestas="3">Teniendo en cuenta las circunstancias que se observan en la fotografía y que ya se ha puesto el sol, ¿qué luces debe utilizar en esta travesía?</pregunta>
+		<respuesta id="1" buena="no">Las luces de posición únicamente, porque se ve bien.</respuesta>
+		<respuesta id="2" buena="no">Ninguna, porque no son necesarias al existir suficiente visibilidad.</respuesta>
+		<respuesta id="3" buena="si">Las de posición y las de cruce o corto alcance simultáneamente.</respuesta>
+	</jugada>
+	<jugada id="93">
+		<pregunta imagen="vacio.png" cantidadrespuestas="2">Cuando por razones de fuerza mayor queda un vehículo detenido en un paso a nivel, su conductor está obligado a desalojar rápidamente a los ocupantes del vehículo y a dejar el paso libre lo antes posible. ¿Son aplicables dichas normas, en iguales circunstancias, cuando la detención tenga lugar en un puente móvil?</pregunta>
+		<respuesta id="1" buena="no">No.</respuesta>
+		<respuesta id="2" buena="si">Sí.</respuesta>
+	</jugada>
+	<jugada id="94">
+		<pregunta imagen="94.jpg" cantidadrespuestas="3">El camión cisterna que se observa en la fotografía transporta mercancías peligrosas. ¿Qué le indica la señal rectangular que lleva en su parte posterior más baja?</pregunta>
+		<respuesta id="1" buena="si">Que mide más de 12 metros.</respuesta>
+		<respuesta id="2" buena="no">Que mide 12 metros.</respuesta>
+		<respuesta id="3" buena="no">Que mide 12 metros de largo y más de 2,50 metros de ancho.</respuesta>
+	</jugada>
+	<jugada id="95">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">En la incorporación a la circulación desde una gasolinera a una carretera, después de repostar combustible, ¿quién tiene preferencia de paso?</pregunta>
+		<respuesta id="1" buena="no">Los que salgan de la gasolinera, siempre que lo hagan por la derecha.</respuesta>
+		<respuesta id="2" buena="no">Los que salgan de la gasolinera, tanto si lo hacen por la derecha como por la izquierda.</respuesta>
+		<respuesta id="3" buena="si">Los que circulen por la vía a la que se incorporen cualquiera que sea el sentido en que lo hagan.</respuesta>
+	</jugada>
+	<jugada id="96">
+		<pregunta imagen="96.jpg" cantidadrespuestas="2">Teniendo en cuenta la señalización que se observa en la fotografía ¿le estaría permitido a partir de las señales verticales adelantar?</pregunta>
+		<respuesta id="1" buena="no">Sí.</respuesta>
+		<respuesta id="2" buena="si">No.</respuesta>
+	</jugada>
+	<jugada id="97">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Ha estacionado su vehículo a cinco metros de una esquina y, al incorporarse a la circulación, en lugar de hacerlo de frente por la misma vía, da Ud. marcha atrás invadiendo un cruce de vías para tomar otra vía a la izquierda. ¿Es correcto su comportamiento?</pregunta>
+		<respuesta id="1" buena="no">Sí, en todo caso.</respuesta>
+		<respuesta id="2" buena="no">Sí, pero únicamente cuando el recorrido hacia atrás no sea superior a 15 metros.</respuesta>
+		<respuesta id="3" buena="si">No, porque invado un cruce de vías que está prohibido.</respuesta>
+	</jugada>
+	<jugada id="98">
+		<pregunta imagen="98.jpg" cantidadrespuestas="2">Teniendo en cuenta la posición que Ud. ocupa en la calzada y la señal cuadrada que se observa en la fotografía, Ud...</pregunta>
+		<respuesta id="1" buena="no">Debe cambiar el sentido de la marcha obligatoriamente.</respuesta>
+		<respuesta id="2" buena="si">Puede cambiar el sentido de la marcha o seguir de frente.</respuesta>
+	</jugada>
+	<jugada id="99">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">El conductor de un vehículo que circula delante del que usted conduce lleva encendido el indicador de dirección de la derecha en su vehículo y, al mismo tiempo, con el brazo en posición horizontal y la palma de la mano extendida hacia abajo le advierte que va a realizar un desplazamiento lateral a la izquierda. ¿Qué señal prevalece?</pregunta>
+		<respuesta id="1" buena="no">La luminosa, porque las hechas con el brazo lo son en defecto de las ópticas.</respuesta>
+		<respuesta id="2" buena="si">La del brazo, porque anula cualquier indicación óptica que la contradiga.</respuesta>
+		<respuesta id="3" buena="no">Ninguna, ambas carecen de valor y se deben extremar las precauciones.</respuesta>
+	</jugada>
+	<jugada id="100">
+		<pregunta imagen="vacio.png" cantidadrespuestas="3">Circula Ud. por un túnel suficientemente iluminado y, en un lugar donde se ensancha el arcén, para su vehículo. ¿Es correcto su comportamiento?</pregunta>
+		<respuesta id="1" buena="si">No.</respuesta>
+		<respuesta id="2" buena="no">Sí, porque está prohibido estacionar, pero no parar.</respuesta>
+		<respuesta id="3" buena="no">Sí, porque en el arcén de un túnel está permitido parar y estacionar.</respuesta>
+	</jugada>
+</xml>
