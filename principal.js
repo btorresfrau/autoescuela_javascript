@@ -9,7 +9,7 @@
 //preguntas de ejemplo. Estas y sus relativas imágenes han sido sacadas de los tests oficiales de la DGT,
 //así como se incluye una plantilla con la estructura (datos/ejemploXML.xml) necesaria para añadir nuevas
 //preguntas a este test. Se ha considerado que las preguntas pueden o no tener una imagen asociada y 
-//también pueden tener dos o tres respuestas. La interación y la interfaz de usuario se han enfocado
+//también pueden tener dos o tres respuestas. La interacción y la interfaz de usuario se han enfocado
 //hacia la simplicidad y claridad de los datos reflejados (corrección al finalizar el test).
 
 //Los comentarios cubren la mayor y genérica parte de las funciones a las que se refieren, no obstante
